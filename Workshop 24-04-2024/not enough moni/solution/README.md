@@ -2,11 +2,17 @@
 
 <br>
 
-**_challenge description_** : infinite money glitch?
-
-**_flag_** : `isfcr{v4lu3_und3rfl0w}`
+## Challenge Description :
+infinite money glitch?
 
 <br>
+
+## Flag :
+`isfcr{v4lu3_und3rfl0w}`
+
+<br>
+
+## Solution :
 
 There are two intended ways to solve this challenge :
 
