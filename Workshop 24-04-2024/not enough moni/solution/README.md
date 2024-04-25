@@ -1,6 +1,12 @@
 # not enough moni
 
+<br>
+
+**_challenge description_** : infinite money glitch?
+
 **_flag_** : `isfcr{v4lu3_und3rfl0w}`
+
+<br>
 
 There are two intended ways to solve this challenge :
 
