@@ -16,6 +16,8 @@ rev them brain muscles.
 
 `isfcr{f1r57_py7h0n_r3v}`
 
+<br/>
+
 
 ## Solution :
 
@@ -37,7 +39,7 @@ rev them brain muscles.
     ```
 
 
-- To get the flag, just perform the reverse operation (subtract 1 at even index and add 1 at odd index).
+- To get the flag, just perform the reverse operation : subtract 1 at even index and add 1 at odd index.
     ```py
     with open('output.txt', 'r') as file:
         content = file.read()
