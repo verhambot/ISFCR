@@ -1,7 +1,4 @@
 # HEADed XORbitantly
-<br>
-
-### Author: El3CTR0N
 
 <br>
 
