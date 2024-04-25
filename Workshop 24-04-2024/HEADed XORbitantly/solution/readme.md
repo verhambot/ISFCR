@@ -37,7 +37,7 @@ def frfrrfrafrafrafrafrafarf(asdadasdasdasd):
     while True:
         for item in asdadasdasdasd:
             yield item
-jhljkhjklhjkhajsdfhajshd= open('rev.png','rb').read()
+jhljkhjklhjkhajsdfhajshd= open('<redacted>.png','rb').read()
 asdadasdasdasd=[jhljkhjklhjkhajsdfhajshd[i] for i in range(7)]
 jkljkjlkjlkjlkjlkjljl= bytearray([i^j for i,j in zip(jhljkhjklhjkhajsdfhajshd,frfrrfrafrafrafrafrafarf(asdadasdasdasd))])
 open("enc.png","wb").write(jkljkjlkjlkjlkjlkjljl)
@@ -51,7 +51,7 @@ def cyc(key):
     while True:
         for item in key:
             yield item
-f= open('rev.png','rb').read() #opening the image and reading the bytes 
+f= open('<redacted>.png','rb').read() #opening the image and reading the bytes 
 key=[f[i] for i in range(7)] #making a list of the first 7 bytes (key)
 enc= bytearray([i^j for i,j in zip(f,cyc(key))]) #XORing each byte with the key
 open("enc.png","wb").write(enc)
@@ -71,7 +71,7 @@ f= open('El3CTR0N.png','rb').read() #any random png image just to get the headde
 k=open('enc.png','rb').read() # given encrypted PNG image
 key=[f[i] for i in range(7)] # the header of a PNG image
 enc= bytearray([i^j for i,j in zip(k,cycle(key))])
-open("dec.png","wb").write(enc)
+open("solution.png","wb").write(enc)
 ```
 
 
