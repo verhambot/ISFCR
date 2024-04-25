@@ -14,7 +14,7 @@ Connect to : `nc 35.244.42.91 1024`
 <br/>
 
 
-## Hint
+## Hint :
 
 Example : `import <MODULE>; <MODULE>.run(["echo", "hello"])`
 
@@ -30,7 +30,7 @@ Example : `import <MODULE>; <MODULE>.run(["echo", "hello"])`
 <br/>
 
 
-## Solution
+## Solution :
 
 This challenge involves remote shell code execution using Python.
 
