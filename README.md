@@ -1,2 +1,2 @@
-# ISFCR
-Writeups for ISFCR CTFs
+# ISFCR PESU
+Writeups for ISFCR PESU CTFs
