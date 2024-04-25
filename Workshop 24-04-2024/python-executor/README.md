@@ -18,6 +18,8 @@ Connect to : `nc 35.244.42.91 1024`
 
 Example : `import <MODULE>; <MODULE>.run(["echo", "hello"])`
 
+Replace `<MODULE>` with the appropriate module.
+
 
 <br/>
 
