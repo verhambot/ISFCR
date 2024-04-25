@@ -1,6 +1,10 @@
 # HEADed XORbitantly
 <br>
 
+### Author: El3CTR0N
+
+<br>
+
 ## Challenge Description
 
 Someone has messed with an image containing important information I think they used this program to do so
