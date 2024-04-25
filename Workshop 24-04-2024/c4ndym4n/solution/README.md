@@ -2,11 +2,17 @@
 
 <br>
 
-**_challenge description_** : :candy:
-
-**_flag_** : `isfcr{candy_is_nice}`
+## Challenge Description :
+:candy:
 
 <br>
+
+## Flag :
+`isfcr{candy_is_nice}`
+
+<br>
+
+## Solution :
 
 ### Ghidra
 1. Decompile the `yummy` file using Ghidra.
